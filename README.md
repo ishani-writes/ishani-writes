@@ -9,7 +9,7 @@ This is where I keep the prompts and workflows I use in that work, so anyone run
 | Project | What it does |
 |---|---|
 | [brand-voice-prompt-kit](https://github.com/ishani-writes/brand-voice-prompt-kit) | Captures an executive's voice so ghostwritten posts sound like them |
-| [content-repurposing-workflow](https://github.com/ishani-writes/content-repurposing-workflow) | Turns one long-form piece into LinkedIn, newsletter and email drafts |
+| [content-repurposing-workflow](https://github.com/ishani-writes/content-repurposing-workflow) | Turns one long-form piece into LinkedIn posts, newsletter sections and quotable lines |
 | [launch-day-engagement-planner](https://github.com/ishani-writes/launch-day-engagement-planner) | Decides which Product Hunt launches deserve a thoughtful comment each day |
 | [video-script-workflow](https://github.com/ishani-writes/video-script-workflow) | Moves a rough idea to a script you can record |
 
