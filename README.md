@@ -12,7 +12,7 @@ This is where I keep the prompts and workflows I use in that work, so anyone run
 | [content-repurposing-workflow](https://github.com/ishani-writes/content-repurposing-workflow) | Turns one long-form piece into LinkedIn posts, newsletter sections and quotable lines |
 | [launch-day-engagement-planner](https://github.com/ishani-writes/launch-day-engagement-planner) | Decides which Product Hunt launches deserve a thoughtful comment each day |
 | [video-script-workflow](https://github.com/ishani-writes/video-script-workflow) | Moves a rough idea to a script you can record |
-| [case-study-interview-kit](https://github.com/ishani-writes/case-study-interview-kit) | Turns a customer interview into a case study and a short LinkedIn post that puts the customer first |
+| [case-study-interview-kit](https://github.com/ishani-writes/case-study-interview-kit) | Turns a customer interview into a full case study, an approval checklist and a short LinkedIn post that puts the customer first |
 
 ## How I use AI in content work
 
